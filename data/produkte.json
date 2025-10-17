@@ -1,0 +1,30 @@
+[
+  {
+    "id": 101,
+    "name": "Kopfhörer",
+    "kategorie": "Audio",
+    "preis": 59.99,
+    "lager": 120
+  },
+  {
+    "id": 102,
+    "name": "Tastatur",
+    "kategorie": "Peripherie",
+    "preis": 39.5,
+    "lager": 60
+  },
+  {
+    "id": 103,
+    "name": "Monitor",
+    "kategorie": "Display",
+    "preis": 199.0,
+    "lager": 25
+  },
+  {
+    "id": 104,
+    "name": "Maus",
+    "kategorie": "Peripherie",
+    "preis": 24.99,
+    "lager": 200
+  }
+]
